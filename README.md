@@ -1,32 +1,34 @@
 # AI_LAB-5B
-# Python Libraries Assignment_1
+# AI Lab Repository
 
-## Overview
-This project demonstrates the basics of **NumPy**, **Pandas**, and **Matplotlib** using simple examples related to AI and data analysis.
+## About
+This repository contains AI Lab experiments, practice programs, and assignments implemented in Python. It is designed to strengthen the fundamentals of Artificial Intelligence through hands-on coding and data analysis.
 
-## Features
-- Create and manipulate NumPy arrays and matrices
-- Use Boolean masking to filter data
-- Create and filter Pandas DataFrames
-- Plot training and validation loss
-- Create line and bar charts using Matplotlib
+## Contents
+- AI Lab Experiments
+- Python Programming
+- NumPy Operations
+- Pandas Data Processing
+- Matplotlib Visualizations
+- Basic Machine Learning Concepts
 
-## Technologies Used
-- Python 3
+## Requirements
+- Python 3.x
 - NumPy
 - Pandas
 - Matplotlib
 
-## Installation
+Install dependencies:
 
 ```bash
 pip install numpy pandas matplotlib
 ```
 
-## Output
-- Matrix operations using NumPy
-- AI model accuracy filtering with Pandas
-- Training loss and accuracy visualizations using Matplotlib
+## Objective
+The goal of this repository is to learn AI concepts by implementing practical examples, analyzing data, and creating visualizations using Python libraries.
 
-## Author
-**Pritish Manna**
+## Repository
+Feel free to explore the programs and use them for learning and academic purposes.
+
+---
+**Created for:** Artificial Intelligence Lab
