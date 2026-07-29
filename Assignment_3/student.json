@@ -1,0 +1,11 @@
+{
+    "name": "Priya",
+    "age": 25,
+    "department": "CSE",
+    "semester": 4,
+    "subject": [
+        "AI",
+        "Data Mining",
+        "DBMS"
+    ]
+}
